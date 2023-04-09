@@ -1,7 +1,13 @@
 package org.example.hotel.enums;
 
-public enum Status {
+public enum Statut {
 
-    
+    LIBRE,
+
+    OCCUPEE,
+
+    VALIDEE,
+
+    ANNULEE;
 
 }
